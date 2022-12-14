@@ -31,3 +31,5 @@ Purpose- This analysis is to propare visualizations that give potential investor
 # SUMMARY
 
  Giving the results of the visualization, we have seen patterns of usage of time and gender. Utilization rtaes can be predicated based on time od day and location. Weekly usage is most of the time in the morning and afternoon commute. Weekend usage is mainly around the morning and afternnon. we also need more analysis to compare weekend trip duration to weekday trp. we miight also find out if we can add more analysis to identify the unuse area of the visualization. 
+ 
+ Tableau Public URL: https://public.tableau.com/app/profile/guy6801/viz/Bikesharing_16707956577830/Story1?publish=yes
